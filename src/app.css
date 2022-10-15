@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-curve-2 {
+  aspect-ratio: 2400/300;
+  background-image: url("./assets/wave-haikei-top.svg");
+}
+
+.bg-stacked-waves {
+  background-image: url("./assets/stacked-waves-haikei.svg");
+}
+
+.list-checkmark {
+  list-style-type: "✅ ";
+}
+
+.bg-carpets-rising {
+  background-image: url("./carpets-rising.png");
+}
+
+.bubble {
+  content: '';
+  border-top-left-radius: 50% 100%;
+  border-top-right-radius: 100% 100%;
+  /* z-index: -1; */
+  width: 100%;
+}
