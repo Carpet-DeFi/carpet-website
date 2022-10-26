@@ -133,8 +133,8 @@
                       core team and placed into moderate-risk investments.
                     </p>
                     <p>
-                      Profits from these investments will flow back into the
-                      backing treasury.
+                      A part of the profits from these investments will flow
+                      back into the backing treasury.
                     </p>
                   </div>
                 </AnimatedElement>
