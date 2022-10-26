@@ -125,9 +125,8 @@
                 <AnimatedElement>
                   <div class="space-y-6">
                     <p>
-                      On every trade, a part of the fee is sent to the Genie
-                      Sweat Shop, which then allocates it between the Risk
-                      Treasury, protocol expenses and other treasuries.
+                      On every trade, a part of the fee is split between the
+                      Risk Treasury, for protocol expenses and other treasuries.
                     </p>
                     <p>
                       The funds going into the Risk Treasury is managed by our
