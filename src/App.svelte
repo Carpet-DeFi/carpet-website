@@ -39,7 +39,9 @@
         </div>
       </AnimatedElement>
       <div class="flex flex-row gap-6 justify-center mt-4">
+        <!-- 
         <LinkButton href="https://app.carpetde.fi" text="Enter the dapp" />
+        -->
         <LinkButton href="https://docs.carpetde.fi" text="Read the docs" />
       </div>
     </div>
